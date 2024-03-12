@@ -1,7 +1,5 @@
-template-file-path: ./S3.yml
-
-parameters: 
-
+template-file-path: s3.yml
+parameters: {}
 tags:
-    cost-center: '123456'
-    org: 'AWS'
+  org: AWS
+  cost-center: '123456'
